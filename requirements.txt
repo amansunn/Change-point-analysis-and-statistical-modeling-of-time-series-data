@@ -1,0 +1,12 @@
+# Add your project dependencies here
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+statsmodels
+ruptures
+seaborn
+pymc3>=3.11.4
+arviz>=0.15.1
+theano-pymc==1.1.2
